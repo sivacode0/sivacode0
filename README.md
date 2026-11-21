@@ -6,7 +6,7 @@
 
 **Oracle Certified in Java & DBMS**
 
-<a href="https://www.linkedin.com/in/sivasaikoduru"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sivasaikoduru"><img src="https://img.shields.io/badge/LinkedIn-Siva%20Sai%20Koduru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sivasaikoduru@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/sivacode0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
